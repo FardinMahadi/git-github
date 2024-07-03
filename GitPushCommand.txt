@@ -1,3 +1,4 @@
+* for first time opening a git repo
 git init
 git add .
 git config --global user.email "mahadihasanfardin2015@gmail.com"
@@ -13,4 +14,4 @@ git push -u origin main
 *Send Small Incremental Changes To GitHub With Git Push
 git add .
 git commit -m "something commit"
-git push -u origin main
+git push 
